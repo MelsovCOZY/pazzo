@@ -11,6 +11,12 @@
     "dist/",
     "wordlists/"
   ],
+  "homepage": "https://github.com/MelsovCOZY/pazzwrd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelsovCOZY/pazzwrd.git"
+  },
+  "author": "MelsovCOZY",
   "keywords": [
     "password",
     "generator",
@@ -18,7 +24,14 @@
     "cli",
     "memorable",
     "diceware",
-    "eff"
+    "eff",
+    "security",
+    "crypto",
+    "random",
+    "strong",
+    "wordlist",
+    "terminal",
+    "entropy"
   ],
   "scripts": {
     "start": "bun src/cli.ts",
